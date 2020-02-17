@@ -60,8 +60,8 @@ export default {
   // default options
   OPTIONS: {
     logLevel: 'warn',
-    errorOnMissingPlayServices: true,
-    promptOnMissingPlayServices: true,
+    errorOnMissingPlayServices: false,
+    promptOnMissingPlayServices: false,
   },
 
   FLAGS: {
